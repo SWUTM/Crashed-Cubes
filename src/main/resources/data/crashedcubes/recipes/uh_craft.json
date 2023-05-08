@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "crashed_cubes:diamond_hammer"
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "crashed_cubes:gold_hammer"
+    }
+  },
+  "result": {
+    "item": "crashedcubes:ukraine_hammer",
+    "count": 1
+  }
+}
